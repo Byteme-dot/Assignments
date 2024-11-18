@@ -34,6 +34,5 @@ int findlength(int a){
         a=a/10;
         len++;
     }
-    printf("Lol");
     return len;
 }
